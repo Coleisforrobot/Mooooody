@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "moody:big_pickaxe",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "big_pickaxe",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "moody:undestroyable_block": {
+    "textures": {
+      "up": "moody_undestroyable_block_up",
+      "down": "moody_undestroyable_block_down",
+      "south": "moody_undestroyable_block_south",
+      "north": "moody_undestroyable_block_north",
+      "west": "moody_undestroyable_block_west",
+      "east": "moody_undestroyable_block_east"
+    },
+    "sound": "stone"
+  }
+}

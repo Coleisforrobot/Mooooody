@@ -1,0 +1,61 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BigPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_pickaxe"
+    },
+    {
+      "name": "UndestroyableBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "undestroyable_block"
+    },
+    {
+      "name": "Boi",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boi"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_gb": {
+      "tile.moody:undestroyable_block.name": "Undestroyable Block",
+      "item.moody:big_pickaxe.name": "Big Pickaxe"
+    },
+    "en_us": {
+      "tile.moody:undestroyable_block.name": "Undestroyable Block",
+      "item.moody:big_pickaxe.name": "Big Pickaxe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "moody",
+    "modName": "Mooooody",
+    "version": "1.0.0",
+    "author": "Owner, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.14.x",
+    "modElementsPackage": "net.mcreator.moody",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

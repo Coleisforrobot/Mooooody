@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "moody:undesroyableblock"
+    },
+    "groups": [
+      "moody"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:coal_block"
+      },
+      "1": {
+        "item": "minecraft:skull"
+      },
+      "2": {
+        "item": "minecraft:coal_block"
+      },
+      "3": {
+        "item": "minecraft:coal_block"
+      },
+      "4": {
+        "item": "minecraft:coal_block"
+      },
+      "5": {
+        "item": "minecraft:coal_block"
+      },
+      "6": {
+        "item": "minecraft:coal_block"
+      },
+      "7": {
+        "item": "minecraft:coal_block"
+      },
+      "8": {
+        "item": "minecraft:coal_block"
+      }
+    },
+    "result": {
+      "item": "moody:undestroyable_block",
+      "count": 1
+    }
+  }
+}

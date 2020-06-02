@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Mooooody",
+    "uuid": "69547acb-6978-3792-9d68-6dc81eeaaaf7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      14,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "13b903ef-ee25-3a26-90d9-99363a382ca7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "60fede3f-bd5c-3128-a486-45cdc280d1de",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Owner, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
